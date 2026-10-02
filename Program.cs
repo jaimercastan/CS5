@@ -71,16 +71,16 @@ namespace CS5
             // Nota: Para la solucion, utilizar el operador de diferencia.
 
             int k = 0;
-            while (k >= -1)
+            while (k >= -6)
             {
                 Console.WriteLine($"k: {k}");
-                k += 1;
+                k += 6;
             }
             int e = 0;
-            while (e != 1)
+            while (e != 7)
             {
                 Console.WriteLine($"e: {e}");
-                e -= 1;
+                e -= 7;
             }
 
         }
