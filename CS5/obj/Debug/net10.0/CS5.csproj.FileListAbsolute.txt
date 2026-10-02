@@ -1,0 +1,14 @@
+/Users/jaimecastan/CSharp/CS5/bin/Debug/net10.0/CS5
+/Users/jaimecastan/CSharp/CS5/bin/Debug/net10.0/CS5.deps.json
+/Users/jaimecastan/CSharp/CS5/bin/Debug/net10.0/CS5.runtimeconfig.json
+/Users/jaimecastan/CSharp/CS5/bin/Debug/net10.0/CS5.dll
+/Users/jaimecastan/CSharp/CS5/bin/Debug/net10.0/CS5.pdb
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.AssemblyInfoInputs.cache
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.AssemblyInfo.cs
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.csproj.CoreCompileInputs.cache
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.dll
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/refint/CS5.dll
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.pdb
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/CS5.genruntimeconfig.cache
+/Users/jaimecastan/CSharp/CS5/obj/Debug/net10.0/ref/CS5.dll
